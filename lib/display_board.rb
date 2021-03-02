@@ -7,6 +7,7 @@ def display_board
     puts vert
     puts horizontal
   end
+  vert
 end
     
   display_board

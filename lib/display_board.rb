@@ -3,7 +3,7 @@
 def display_board
   vert = "   |   |   "
  horizontal = "-----------"
-  3.times do
+  2.times do
     puts vert
     puts horizontal
   end

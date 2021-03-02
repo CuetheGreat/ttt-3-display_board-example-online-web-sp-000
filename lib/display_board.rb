@@ -2,7 +2,7 @@
  
 def display_board
   vert = "   |   |   "
- horizontal = "-----------"
+  horizontal = "-----------"
   2.times do
     puts vert
     puts horizontal
